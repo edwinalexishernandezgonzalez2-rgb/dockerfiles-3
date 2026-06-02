@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for dockerfiles-3 on 2026-05-03T14:33:00Z
+# fly.toml app configuration file generated for dockerfiles-3-z8r1ag on 2026-06-02T03:59:35Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'dockerfiles-3'
+app = 'dockerfiles-3-z8r1ag'
 primary_region = 'ams'
 
 [build]
